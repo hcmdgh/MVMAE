@@ -1,6 +1,6 @@
 # MVMAE
 
-The source code our proposed MVMAE model. 
+The source code of our TNNLS-2026 paper "Efficient and Scalable Multi-View Masked Autoencoder for Heterogeneous Graph Self-Supervised Learning".
 
 ## Dataset
 
